@@ -15,5 +15,4 @@ Extract data from an Excel sheet.
 # overview:
 
 The two-year period's employment and labor participation trends were comprehensively viewed by the combined visualizations, which made it easier to pinpoint regions in need of policy intervention.
- 
-#dataanalytics #cognoriseinfotech #datavisualization #excel #datacleaning
+
